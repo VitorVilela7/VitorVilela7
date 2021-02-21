@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 🕹️ SNES optimization projects:
 - Contra III: [SA-1 Root](https://github.com/VitorVilela7/SA1-Root)
 - Gradius III: [SA-1 Root](https://github.com/VitorVilela7/SA1-Root)
+- Race Drivin': [SA-1 Root](https://github.com/VitorVilela7/SA1-Root)
 - Super Castlevania IV: [Project FastROM](https://github.com/VitorVilela7/fastrom)
 - Super Mario World: [SA-1 Pack](https://github.com/VitorVilela7/SA1-Pack)
 - Super R-Type: [SA-1 Root](https://github.com/VitorVilela7/SA1-Root)
