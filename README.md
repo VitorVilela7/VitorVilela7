@@ -22,6 +22,7 @@ Here are some ideas to get you started:
  - LinkedIn: https://www.linkedin.com/in/vitor-vilela-da-cruz-58878872/
 
 🕹️ SNES optimization projects:
+- Axelay: [Project FastROM](https://github.com/VitorVilela7/fastrom)
 - Contra III: [SA-1 Root](https://github.com/VitorVilela7/SA1-Root)
 - Gradius III: [SA-1 Root](https://github.com/VitorVilela7/SA1-Root)
 - Race Drivin': [SA-1 Root](https://github.com/VitorVilela7/SA1-Root)
