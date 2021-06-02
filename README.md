@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 🕹️ SNES optimization projects:
 - Axelay: [Project FastROM](https://github.com/VitorVilela7/fastrom)
 - Contra III: [SA-1 Root](https://github.com/VitorVilela7/SA1-Root)
+- F-Zero: [Project FastROM](https://github.com/VitorVilela7/fastrom)
 - Gradius III: [SA-1 Root](https://github.com/VitorVilela7/SA1-Root)
 - Race Drivin': [SA-1 Root](https://github.com/VitorVilela7/SA1-Root)
 - Super Castlevania IV: [Project FastROM](https://github.com/VitorVilela7/fastrom)
