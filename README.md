@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 -->
 
 📫 How to reach me:
- - E-mail: vitor.vilela.mario@gmail.com
  - Twitter: https://twitter.com/HackerVilela
+ - Instagram: https://instagram.com/HackerVilela
  - Patreon: https://www.patreon.com/vitorvilela
- - LinkedIn: https://www.linkedin.com/in/vitor-vilela-da-cruz-58878872/
 
 
 🕹️ SNES optimization projects:
