@@ -21,6 +21,7 @@ Here are some ideas to get you started:
  - Patreon: https://www.patreon.com/vitorvilela
  - LinkedIn: https://www.linkedin.com/in/vitor-vilela-da-cruz-58878872/
 
+
 🕹️ SNES optimization projects:
 - Axelay: [Project FastROM](https://github.com/VitorVilela7/fastrom)
 - Contra III: [SA-1 Root](https://github.com/VitorVilela7/SA1-Root)
@@ -30,6 +31,7 @@ Here are some ideas to get you started:
 - Super Castlevania IV: [Project FastROM](https://github.com/VitorVilela7/fastrom)
 - Super Mario World: [SA-1 Pack](https://github.com/VitorVilela7/SA1-Pack)
 - Super R-Type: [SA-1 Root](https://github.com/VitorVilela7/SA1-Root)
+- Super Mario World Widescreen: [Project Widescreen](https://github.com/VitorVilela7/wide-snes)
 
 ⚙️ FPGA:
  - CHIP-8 implementation written in VHDL: [FpChip8](https://github.com/VitorVilela7/FpChip8)
