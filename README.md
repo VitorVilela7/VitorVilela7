@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 📫 How to reach me:
  - Twitter: https://twitter.com/HackerVilela
- - Instagram: https://instagram.com/HackerVilela
+ - LinkedIn: https://www.linkedin.com/in/vitor-vilela-da-cruz-58878872/
  - Patreon: https://www.patreon.com/vitorvilela
-
+ - Instagram: https://instagram.com/HackerVilela
 
 🕹️ SNES optimization projects:
 - Axelay: [Project FastROM](https://github.com/VitorVilela7/fastrom)
