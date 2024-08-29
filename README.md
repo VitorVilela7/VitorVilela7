@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 📫 How to reach me:
  - Twitter: https://twitter.com/HackerVilela
+ - BlueSky: https://bsky.app/profile/hackervilela.bsky.social
+ - Mastodon: https://mastodon.social/@hackervilela
+ - Discord: https://discord.gg/GYy8d72ynp
  - LinkedIn: https://www.linkedin.com/in/vitor-vilela-da-cruz-58878872/
  - Patreon: https://www.patreon.com/vitorvilela
  - Instagram: https://instagram.com/HackerVilela
